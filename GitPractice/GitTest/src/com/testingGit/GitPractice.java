@@ -6,9 +6,9 @@ public class GitPractice {
 		System.out.println("Hello");
 		System.out.println("Kat");
 		
-		
 		while (i < 3) {
-			
+			System.out.println(i);
+			i++;
 		}
 	}
 }
