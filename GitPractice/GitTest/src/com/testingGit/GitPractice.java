@@ -7,8 +7,12 @@ public class GitPractice {
 		System.out.println("Kat");
 		
 		while (i < 3) {
+
+			System.out.println("Hello" + i + "Lol");
+
 			System.out.println("LOOOOOL" + i);
 			i++;
+
 		}
 	}
 }
